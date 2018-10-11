@@ -53,7 +53,7 @@ h1 {
 
 .hole:after {
   display: block;
-  background: url(Tubería.png) bottom center no-repeat;
+  background: url(pipe.png) bottom center no-repeat;
   background-size: inherit;
   content: '';
   width: 100%;
